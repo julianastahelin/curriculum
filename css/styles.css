@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+}
+hr {
+  border-color: #F0DBDB;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #DBA39A;
+  font-family: monospace, arial;
+  font-size: 30px;
+  text-transform:uppercase;
+}
+h2 {
+  color: #DBA39A;
+  font-family: monospace, arial;
+  text-transform:capitalize;
+}
+h3 {
+  color: #DBA39A;
+  font-family: monospace, arial;
+}
+p {
+  color: black;
+  font-family: courier-new, calibri, arial;
+}
+table {
+  color: black;
+  font-family: courier-new, calibri, arial;
+}
+form {
+    color:black;
+    font-family: courier-new, calibri, arial;
+}
+.juliana {
+  font-size:17px;
+  color:grey;
+}
